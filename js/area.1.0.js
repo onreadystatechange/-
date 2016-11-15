@@ -1,10 +1,10 @@
 /**
 	PineArea 地区三级联动插件
 	
-	@author liwenhao
-	@email pine_lxk@163.com
+	@author yhl
+	@email heyhumany@gmail.com
 	@version 1.0
-	@update 2016/08/10
+	@update 2015/09/10
 */
 (function(){
 
